@@ -39,7 +39,7 @@ body {
 }
 
 .social-icons img {
-  width: 50px;
+  width: 90px;
 }
 
 .descricao {
@@ -50,4 +50,8 @@ body {
 
 .imagem-pessoal img {
     border-radius: 5%;
+}
+
+#twitch a {
+  margin: 0 65px 0 0;
 }
